@@ -1,0 +1,1 @@
+from src.public.web_app import web_app
